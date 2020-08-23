@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gym Routine</string>
+    <string name="tab_text_1">Lun</string>
+    <string name="tab_text_2">Mar</string>
+    <string name="tab_text_3">Mié</string>
+    <string name="tab_text_4">Jue</string>
+    <string name="tab_text_5">Vie</string>
+    <string name="tab_text_6">Sáb</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421777141779",
+    "firebase_url": "https://gym-routine-6eb2f.firebaseio.com",
+    "project_id": "gym-routine-6eb2f",
+    "storage_bucket": "gym-routine-6eb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421777141779:android:9bfd0d3ed3f0decbbf8fe6",
+        "android_client_info": {
+          "package_name": "com.jormoba.gymroutine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421777141779-ijmi1elfv10ant2fm7jpui9bmifh9lsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jormoba.gymroutine",
+            "certificate_hash": "297c3e20a541c36556cc0225bc8a54638273880f"
+          }
+        },
+        {
+          "client_id": "421777141779-e2q7u5ve806cdeq7ui108ctjq8udq9em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGNIKuKj5Zf1ull57Fqn88n6AQkGM4q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421777141779-e2q7u5ve806cdeq7ui108ctjq8udq9em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
